@@ -10,7 +10,9 @@ lsdm 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.lsdm999.com/my-github-repos)
 * [世界，你好！](http://www.lsdm999.com/hello-solo)
+* [WEB语义化和W3C标准初探](http://www.lsdm999.com/articles/2017/09/10/1572665597469.html)
 
 
 
