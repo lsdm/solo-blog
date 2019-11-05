@@ -34,12 +34,12 @@ lsdm 的个人博客
 ### 热门
 
 * [WEB语义化和W3C标准初探](http://www.lsdm999.com/articles/2017/09/10/1572665597469.html)
+* [freecodecamp-notes-1](http://www.lsdm999.com/articles/2017/03/25/1572681383620.html)
 * [WEB语义化和W3C标准初探](http://www.lsdm999.com/articles/2017/09/10/1572681388400.html)
 * [javascript DOM编程艺术笔记4](http://www.lsdm999.com/articles/2017/06/06/1572681381036.html)
 * [css那些事儿](http://www.lsdm999.com/articles/2017/06/01/1572681382162.html)
 * [freecodecamp-notes-3](http://www.lsdm999.com/articles/2017/03/25/1572681382821.html)
 * [javascript DOM 编程艺术笔记2](http://www.lsdm999.com/articles/2017/06/06/1572681383299.html)
-* [freecodecamp-notes-1](http://www.lsdm999.com/articles/2017/03/25/1572681383620.html)
 * [javascript DOM 编程艺术笔记3](http://www.lsdm999.com/articles/2017/06/06/1572681383906.html)
 * [javascript DOM 编程艺术笔记5](http://www.lsdm999.com/articles/2017/06/07/1572681384435.html)
 * [my first massage](http://www.lsdm999.com/articles/2017/03/24/1572681384653.html)
